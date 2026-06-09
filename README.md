@@ -1,8 +1,4 @@
 # Stroke Prediction – Classification Problem
-
-**Course:** AI Programming  
-**Student:** Marina Youssef Gouda Ramis (ID: 3059199)
-
 ## Overview
 
 This project builds a machine learning pipeline to predict stroke risk from patient health records. It addresses the UAE's high prevalence of the three strongest stroke predictors identified in the analysis: elevated glucose levels, hypertension, and high BMI.
