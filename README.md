@@ -1,10 +1,5 @@
 # Stroke Prediction – Classification Problem
 
-**Course:** AI Programming  
-**Student:** Marina Youssef Gouda Ramis (ID: 3059199)
-
----
-
 ## Overview
 
 Supervised ML pipeline to predict stroke risk from routine clinical and demographic data. Directly relevant to the UAE, where the three strongest predictors found — elevated glucose, hypertension, and high BMI — are among the most prevalent health conditions. Data sourced from electronic health records originally compiled by McKinsey & Company.
