@@ -18,14 +18,6 @@ The dataset contains **5,110 patient records** with 11 features, sourced from el
 
 ---
 
-## Project Structure
-
-```
-3059199_Assignment.ipynb   # Main notebook with full analysis
-```
-
----
-
 ## Methodology
 
 ### 1. Exploratory Data Analysis (EDA)
